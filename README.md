@@ -1,4 +1,4 @@
-# JavaScript Title Rotator Snippets
+# <title> tag text rotator
 
 A small JavaScript snippets that rotate dynamic content in the `<title>` tag. 
 These snippets allow for fun, interactive page titles, with rotating phrases that can include emojis or special icons. 
